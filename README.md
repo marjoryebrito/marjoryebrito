@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou @marjoryebrito
 - Sou formada em Análise e Desenvolvimento de Sistemas/FACEMP
-- Atualmente estou aprofundando os conhecimentos em Java, Spring, e PHP
+- Atualmente estou aprofundando os conhecimentos em Java, Spring, PHP e Laravel
 - beacons.ai/marjoryebrito
 
 <!---
