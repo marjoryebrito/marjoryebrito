@@ -1,7 +1,5 @@
 - 👋 Olá, eu sou @marjoryebrito
-- Sou formada em Análise e Desenvolvimento de Sistemas/FACEMP
-- Atualmente estou aprofundando os conhecimentos em Java, Spring, PHP e Laravel
-- beacons.ai/marjoryebrito
+- Graduação Tecnológica em Análise e Desenvolvimento de Sistemas
 
 <!---
 marjoryebrito/marjoryebrito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
